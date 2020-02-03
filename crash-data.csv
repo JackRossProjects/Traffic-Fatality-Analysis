@@ -19,7 +19,9 @@ Fatalities per 100 Million Vehicle Miles Traveled,NA,1.17,1.19,1.15,1.08
 "Fatalities per 100,000 Registered Vehicles",NA,12.9,13.13,12.61,11.92
 "Fatalities per 100,000 Licensed Drivers",NA,16.63,17.05,16.27,15.29
 Seatbelt Use,89.6,89.7,90.1,88.5,86.7
-Handheld Cellphone Use,3.2,2.9,3.3,3.8,4.3
-Visable Headset Cellphone Use,0.4,0.4,0.5,0.6,0.4
-Visable Manipulation of Handheld Device,2.1,2,2.1,2.2,2.2
-Restrain Use of Children Under 8,90.4,92.8,90.9,89.8,90.9
+Handheld Cellphone Use Rate,3.2,2.9,3.3,3.8,4.3
+Visable Headset Cellphone Use Rate,0.4,0.4,0.5,0.6,0.4
+Visable Manipulation of Handheld Device Rate,2.1,2,2.1,2.2,2.2
+Restrain Use of Children Under 8 Rate,90.4,92.8,90.9,89.8,90.9
+Distracted Driving Affected Crashes,NA,2935,3197,3242,2972
+Drunk Driving Fatalities (Per 100 million),10511,10908,10967,10280,9943
