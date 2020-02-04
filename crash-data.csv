@@ -12,7 +12,7 @@ Sub Total2,"7,354","7,117","7,193","6,556","5,843"
 Total**,"36,560","37,473","37,806","35,484","32,744"
 Vehicle Miles Traveled (Billions),NA,"3,212","3,174","3,095","3,026"
 Resident Population (Thousands),"327,167","325,147","323,071","320,743","318,386"
-Registered Vehicles (Thousands),NA,"290,387","288,034","281,312","274,805"
+Registered Vehicles (Thousands),"279.1","270.4","264.0","257.9","252.6"
 Licensed Drivers (Thousands),NA,"225,346","221,712","218,084","214,092"
 Fatalities per 100 Million Vehicle Miles Traveled,NA,1.17,1.19,1.15,1.08
 "Fatalities per 100,000 Population",11.17,11.52,11.7,11.06,10.28
@@ -23,5 +23,5 @@ Handheld Cellphone Use Rate,3.2,2.9,3.3,3.8,4.3
 Visable Headset Cellphone Use Rate,0.4,0.4,0.5,0.6,0.4
 Visable Manipulation of Handheld Device Rate,2.1,2,2.1,2.2,2.2
 Restrain Use of Children Under 8 Rate,90.4,92.8,90.9,89.8,90.9
-Distracted Driving Affected Crashes,NA,2935,3197,3242,2972
+Distracted Driving Affected Crashes,4637,3166,3526,3477,3179
 Drunk Driving Fatalities (Per 100 million),10511,10908,10967,10280,9943
