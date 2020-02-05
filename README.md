@@ -1,3 +1,3 @@
-# Traffic-Fatality-Analysis
+# Traffic Fatality Analysis
 
-Data shows that when we are driving we use our seatbelts more often and use our phones less than we did 5 years ago. The data shows more people are dying per year because of auto accidents. If were being more careful then what's causing these deaths?
+Why has there been an increase in fatalities from 2009 to 2018 while the rate of seatbelt use has gone up and the rate of cell phone use has dropped? Why does it seem that driving is safer than it was 5 years ago but your chances of dying are higher now?
