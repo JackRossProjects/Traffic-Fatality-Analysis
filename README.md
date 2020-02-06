@@ -20,7 +20,7 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 - etc.
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
+[![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 
 
 [![crashTest](https://media2.giphy.com/media/WMGckTVyGJzvW/giphy.gif)]()
