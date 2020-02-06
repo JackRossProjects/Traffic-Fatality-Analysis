@@ -16,16 +16,12 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 
 ## Table of Contents
 
-- [setup](#setup)
+- [Setup](#setup)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
 
 ---
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/jackrossprojects/traffic-fatality-analysis.git
 
 ### Setup
 
