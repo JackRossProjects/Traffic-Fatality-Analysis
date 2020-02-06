@@ -16,11 +16,8 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Features](#features)
+- [setup](#setup)
 - [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
 
@@ -44,7 +41,6 @@ $ pip3 install sklearn
 
 ---
 
-
 ## Contributing
 
 Want to add on this?
@@ -52,19 +48,18 @@ Want to add on this?
 ### Step 1
 
 - **Option 1**
-    - 🍴 Fork this repo!
+    - Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/jackrossprojects/Traffic-Fatality-Analysis.git`
+    - Clone this repo to your local machine using `https://github.com/jackrossprojects/Traffic-Fatality-Analysis.git`
 
 ### Step 2
 
-- **HACK AWAY!** 🔨🔨🔨
+- **HACK AWAY!**
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/" target="_blank">`https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/`</a>.
-
+- Create a new pull request using <a href="https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/" target="_blank">`https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/`</a>.
 
 ---
 
