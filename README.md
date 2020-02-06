@@ -6,19 +6,6 @@
 
 Why has there been an increase in fatalities from 2014 to 2018 while the rate of seatbelt use has gone up and the rate of cell phone use has dropped? Why does it seem that driving is safer than it was 5 years ago but your chances of dying are higher now?
 
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 [![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)]()
 [![issues](https://img.shields.io/badge/issues-0-red)]()
@@ -27,7 +14,7 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 [![crashTest](https://media2.giphy.com/media/WMGckTVyGJzvW/giphy.gif)]()
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
@@ -38,11 +25,6 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 - [License](#license)
 
 ---
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ### Clone
 
@@ -100,4 +82,4 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://jackrossprojects.com" target="_blank">Jack Ross Projects</a>.
+- Copyright 2020 © <a href="http://jackrossprojects.com" target="_blank">Jack Ross Projects</a>.
