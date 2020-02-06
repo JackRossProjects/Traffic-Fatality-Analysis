@@ -20,15 +20,14 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 - etc.
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-[![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+[![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)]
+[![issues](https://img.shields.io/badge/issues-0-red)]
 
 
 [![crashTest](https://media2.giphy.com/media/WMGckTVyGJzvW/giphy.gif)]()
 
 
 ## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Features](#features)
@@ -37,22 +36,6 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
-
-
----
-
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
 
 ---
 
@@ -63,43 +46,26 @@ let generateProject = project => {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/jackrossprojects/traffic-fatality-analysis.git
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
+> update and install these packages first
 
 ```shell
-$ brew update
-$ brew install fvcproductions
+$ pip3 install numpy
+$ pip3 install pandas
+$ pip3 install matplotlib
+$ pip3 install seaborn
+$ pip3 install sklearn
 ```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
 ---
 
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
-
----
 
 ## Contributing
 
-> Want to add onto this?
+Want to add on this?
 
 ### Step 1
 
@@ -117,13 +83,6 @@ $ bower install
 
 - 🔃 Create a new pull request using <a href="https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/" target="_blank">`https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/`</a>.
 
----
-
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
 
 ---
 
@@ -131,10 +90,8 @@ $ bower install
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
+- Website at <a href="http://jackrossprojects.com" target="_blank">`jackrossprojects.com`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/jackcalvinross/" target="_blank">`/in/jackcalvinross`</a>
 
 ---
 
