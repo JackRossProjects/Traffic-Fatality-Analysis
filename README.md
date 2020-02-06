@@ -7,8 +7,8 @@
 Why has there been an increase in fatalities from 2014 to 2018 while the rate of seatbelt use has gone up and the rate of cell phone use has dropped? Why does it seem that driving is safer than it was 5 years ago but your chances of dying are higher now?
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-[![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)]()
-[![issues](https://img.shields.io/badge/issues-0-red)]()
+[![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://httpstatusdogs.com/img/424.jpg)
+[![issues](https://img.shields.io/badge/issues-0-red)](https://images-na.ssl-images-amazon.com/images/I/41NpoiJzizL._SX425_.jpg)
 
 
 [![crashTest](https://media2.giphy.com/media/WMGckTVyGJzvW/giphy.gif)]()
