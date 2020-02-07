@@ -1,7 +1,3 @@
-<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
 # Traffic Fatality Analysis
 
 Why has there been an increase in fatalities from 2014 to 2018 while the rate of seatbelt use has gone up and the rate of cell phone use has dropped? Why does it seem that driving is safer than it was 5 years ago but your chances of dying are higher now? Let's find out!
@@ -77,3 +73,9 @@ Reach out to me at one of the following places!
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="http://jackrossprojects.com" target="_blank">Jack Ross Projects</a>.
+
+
+## Thanks for reading!
+
+<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
+
