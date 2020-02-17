@@ -9,9 +9,9 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 [![dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://httpstatusdogs.com/img/424.jpg)
 [![issues](https://img.shields.io/badge/issues-0-red)](https://images-na.ssl-images-amazon.com/images/I/41NpoiJzizL._SX425_.jpg)
 
-<center>
+
 [![crashTest](https://media2.giphy.com/media/WMGckTVyGJzvW/giphy.gif)]()
-</center>
+
 
 ## Table of Contents
 
