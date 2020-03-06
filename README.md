@@ -77,5 +77,5 @@ Reach out to me at one of the following places!
 
 ## Thanks for reading!
 
-<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>!
+<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
 
