@@ -20,7 +20,7 @@ Why has there been an increase in fatalities from 2014 to 2018 while the rate of
 - [Support](#support)
 - [License](#license)
 
----
+----
 
 ### Setup
 
@@ -34,7 +34,7 @@ $ pip3 install seaborn
 $ pip3 install sklearn
 ```
 
----
+----
 
 ## Contributing
 
@@ -56,7 +56,7 @@ Want to add on this?
 
 - Create a new pull request using <a href="https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/" target="_blank">`https://github.com/jackrossprojects/Traffic-Fatality-Analysis/compare/`</a>.
 
----
+----
 
 ## Support
 
@@ -65,7 +65,7 @@ Reach out to me at one of the following places!
 - Website at <a href="http://jackrossprojects.com" target="_blank">`jackrossprojects.com`</a>
 - LinkedIn at <a href="https://www.linkedin.com/in/jackcalvinross/" target="_blank">`/in/jackcalvinross`</a>
 
----
+----
 
 ## License
 
